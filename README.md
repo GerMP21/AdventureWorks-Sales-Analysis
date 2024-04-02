@@ -1,4 +1,4 @@
-![Sales Overview](/images/adventureworks/salesoverview.png "Sales Overview")
+![Sales Overview](/images/salesoverview.png "Sales Overview")
 
 ## Business Request & User Stories
 The business request for this project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
@@ -100,13 +100,13 @@ ORDER BY
 ## Data Model
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
-![Data Model](/images/adventureworks/datamodel.png "Data Model")
+![Data Model](/images/datamodel.png "Data Model")
 
 ## Sales Management Dashboard
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
-![Sales Overview](/images/adventureworks/salesoverview.png "Sales Overview")
+![Sales Overview](/images/salesoverview.png "Sales Overview")
 
-![Product Details](/images/adventureworks/productdetails.png "Product Details")
+![Product Details](/images/productdetails.png "Product Details")
 
-![Customer Details](/images/adventureworks/customerdetails.png "Customer Details")
+![Customer Details](/images/customerdetails.png "Customer Details")
